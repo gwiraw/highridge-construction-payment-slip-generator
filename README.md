@@ -1,4 +1,6 @@
 # highridge-construction-payment-slip-generator
+https://github.com/gwiraw/highridge-construction-payment-slip-generator.git
+
 Project Overview
 This project was developed for the Module 1 Assignment and simulates a payroll processing system for Highridge Construction Company.
 
